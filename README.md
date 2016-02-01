@@ -1,2 +1,2 @@
-# DatabindingPractice
-Databinding in Practice
+# AndroidDatabindingPractice
+Android Databinding in Practice
